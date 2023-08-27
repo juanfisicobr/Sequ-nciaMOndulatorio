@@ -12,3 +12,14 @@ Secuencia didáctica y material apoyo para la enseñanza de la Mecánica del Mov
 - [Juan C. Terán Briceno](https://www.github.com/juanfisicobr)
 - Juan E. Lobo
 - Yenifer Márquez
+## Roadmap
+
+- MOVIMIENTO ONDULATORIO
+
+- DESCRIPCIÓN DE LA ONDA
+
+- CLASES DE ONDAS
+
+-  PROPAGACIÓN DE ONDAS
+
+- INTERFERENCIA Y SUPERPOSICION DE ONDAS
