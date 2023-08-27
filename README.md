@@ -2,7 +2,9 @@
 # Mecánica del Movimiento ondulatorio
 
 Secuencia didáctica y material apoyo para la enseñanza de la Mecánica del Movimiento ondulatorio
+## Screenshots
 
+![App Screenshot](https://i.ibb.co/QCdqccp/Dise-o-sin-t-tulo.png)
 
 ## Autores
 
